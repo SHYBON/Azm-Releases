@@ -2,6 +2,7 @@
   "version": "1.2.4",
   "installer": "https://github.com/SHYBON/Azm-Releases/releases/download/v1.2.4/Azm_AI_Setup.exe",
   "notes": [
+    "حفظ تلقائي للمعرفة على السحابة عند إغلاق النافذة + زر رفع يدوي",
     "المحادثة لا تظهر في «الأحدث» ولا تُحفظ إلا بعد أول رسالة — زي Gemini/ChatGPT",
     "شاشة دخول: Google/GitHub جنب بعض + زر «دخول محلي» في المنتصف",
     "قائمة إرفاق ＋: صورة · مستند كسياق · مسح",
