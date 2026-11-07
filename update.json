@@ -1,10 +1,10 @@
 {
-  "version": "1.2.3",
-  "installer": "https://github.com/SHYBON/Azm-Releases/releases/download/v1.2.3/Azm_AI_Setup.exe",
+  "version": "1.2.4",
+  "installer": "https://github.com/SHYBON/Azm-Releases/releases/download/v1.2.4/Azm_AI_Setup.exe",
   "notes": [
-    "شاشة دخول جديدة: Google و GitHub جنب بعض + زر «دخول محلي» في المنتصف تحتهم",
-    "قائمة إرفاق منسدلة بزر ＋: صورة · مستند (Word/Excel/PPT/PDF/نص) كسياق · مسح",
-    "قائمة موديلات موصى بها حسب المهمة على OpenRouter (DeepSeek/Claude/Gemini/Grok)",
-    "حواجز أقوى من بيانات red-team + مزودات DeepSeek وKimi وGrok وMistral وCerebras + single-instance"
+    "المحادثة لا تظهر في «الأحدث» ولا تُحفظ إلا بعد أول رسالة — زي Gemini/ChatGPT",
+    "شاشة دخول: Google/GitHub جنب بعض + زر «دخول محلي» في المنتصف",
+    "قائمة إرفاق ＋: صورة · مستند كسياق · مسح",
+    "حواجز red-team + مزودات DeepSeek/Kimi/Grok/Mistral/Cerebras + single-instance"
   ]
 }
