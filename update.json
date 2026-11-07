@@ -1,10 +1,10 @@
 {
-  "version": "1.2.1",
-  "installer": "https://github.com/SHYBON/Azm-Releases/releases/download/v1.2.1/Azm_AI_Setup.exe",
+  "version": "1.2.2",
+  "installer": "https://github.com/SHYBON/Azm-Releases/releases/download/v1.2.2/Azm_AI_Setup.exe",
   "notes": [
-    "قائمة موديلات موصى بها حسب المهمة على OpenRouter: DeepSeek للتفكير والرياضيات، Claude للكود واتباع التعليمات، Gemini للمستندات الضخمة، Grok للأدوات (بديل GPT-4o)",
-    "حواجز أقوى من بيانات red-team: أبواب الكراهية، سلامة الأطفال، جمع المعلومات، المعلومات المضللة، وإيذاء النفس بردّ رحيم مع خط المساعدة",
-    "مزودات جديدة: DeepSeek · Kimi/Moonshot · xAI Grok · Mistral · Cerebras",
-    "سلوك ديسكورد: single-instance + بقاء بالخلفية + تشغيل مع ويندوز"
+    "قائمة إرفاق منسدلة بزر ＋: إرفاق صورة · إرفاق مستند (Word/Excel/PPT/PDF/نص يُقرأ كسياق) · مسح المرفقات",
+    "قائمة موديلات موصى بها حسب المهمة على OpenRouter (DeepSeek تفكير، Claude كود، Gemini مستندات، Grok أدوات)",
+    "حواجز أقوى من بيانات red-team: الكراهية، سلامة الأطفال، جمع المعلومات، المعلومات المضللة، إيذاء النفس بردّ رحيم",
+    "مزودات جديدة: DeepSeek · Kimi/Moonshot · xAI Grok · Mistral · Cerebras + single-instance"
   ]
 }
