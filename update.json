@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
-  "installer": "https://github.com/SHYBON/Azm-Releases/releases/download/v1.2.4/Azm_AI_Setup.exe",
+  "version": "1.2.5",
+  "installer": "https://github.com/SHYBON/Azm-Releases/releases/download/v1.2.5/Azm_AI_Setup.exe",
   "notes": [
-    "حفظ تلقائي للمعرفة على السحابة عند إغلاق النافذة + زر رفع يدوي",
-    "المحادثة لا تظهر في «الأحدث» ولا تُحفظ إلا بعد أول رسالة — زي Gemini/ChatGPT",
-    "شاشة دخول: Google/GitHub جنب بعض + زر «دخول محلي» في المنتصف",
-    "قائمة إرفاق ＋: صورة · مستند كسياق · مسح",
-    "حواجز red-team + مزودات DeepSeek/Kimi/Grok/Mistral/Cerebras + single-instance"
+    "استيراد خرائط JSON: كل سجل يصير معلومة يسترجعها عزم — حتى ٢٠٠٠ سجل، وكل سطر يمر على الخطوط الحمراء",
+    "موديل عزم المحلي يعمل داخل التطبيق بلا إنترنت (candle/CPU) — يحتاج Azm-Q4_K_M.gguf و tokenizer.json في مجلد الموديل",
+    "التدريب من ملفات Word و Excel و PowerPoint و PDF",
+    "مزودات الموديلات في قائمة واحدة + إصلاح توليد العربية، وOpenAI مستبعد بالكامل",
+    "نسخة احتياطية أصغر للمعرفة مع رسالة خطأ واضحة عند تجاوز حد المستودع"
   ]
 }
