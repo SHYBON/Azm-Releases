@@ -2,6 +2,7 @@
   "version": "1.2.5",
   "installer": "https://github.com/SHYBON/Azm-Releases/releases/download/v1.2.5/Azm_AI_Setup.exe",
   "notes": [
+    "إصلاح تعطّل بدء التشغيل: كانت النسخة الأولى من 1.2.5 تتوقف عند شاشة الدخول ولا تفتح المحادثة",
     "استيراد خرائط JSON: كل سجل يصير معلومة يسترجعها عزم — حتى ٢٠٠٠ سجل، وكل سطر يمر على الخطوط الحمراء",
     "موديل عزم المحلي يعمل داخل التطبيق بلا إنترنت (candle/CPU) — يحتاج Azm-Q4_K_M.gguf و tokenizer.json في مجلد الموديل",
     "التدريب من ملفات Word و Excel و PowerPoint و PDF",
